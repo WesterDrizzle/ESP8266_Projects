@@ -1,0 +1,6 @@
+[submodule "ESP8266_Projects"]
+	path = ESP8266_Projects
+	url = https://github.com/HaozeZeng/ESP8266_Projects.git
+[submodule "ESP8266_Aliyun"]
+	path = ESP8266_Aliyun
+	url = https://github.com/HaozeZeng/ESP8266_Aliyun.git
