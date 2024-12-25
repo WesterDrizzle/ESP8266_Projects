@@ -1,3 +1,6 @@
 [submodule "ESP8266_Aliyun"]
 	path = ESP8266_Aliyun
 	url = https://github.com/WesterDrizzle/ESP8266_Aliyun
+[submodule "ESP8266_AliYun"]
+	path = ESP8266_AliYun
+	url = https://github.com/WesterDrizzle/ESP8266_Aliyun.git
